@@ -1,24 +1,102 @@
 {
   "top_category": [
-    { "id": 1, "img": "", "title": "Овощи и фрукты"},
-    { "id": 2, "img": "", "title": "Бакалеи" },
-    { "id": 3, "img": "", "title": "Хлеб и выпечка" },
-    { "id": 4, "img": "", "title": "Правильное питание" },
-    { "id": 5, "img": "", "title": "Молочная продукция" },
-    { "id": 6, "img": "", "title": "Мясо, курица и рыба" }
+    {
+      "id": 1,
+      "img": "",
+      "title": "Овощи и фрукты"
+    },
+    {
+      "id": 2,
+      "img": "",
+      "title": "Бакалеи"
+    },
+    {
+      "id": 3,
+      "img": "",
+      "title": "Хлеб и выпечка"
+    },
+    {
+      "id": 4,
+      "img": "",
+      "title": "Правильное питание"
+    },
+    {
+      "id": 5,
+      "img": "",
+      "title": "Молочная продукция"
+    },
+    {
+      "id": 6,
+      "img": "",
+      "title": "Мясо, курица и рыба"
+    }
   ],
   "strike_price": [
-    { "id": 1, "img": "", "name": "Ламберт", "discount": "15%", "weight": "2кг", "price": 1200, "disc_price": 1000 },
-    { "id": 2, "img": "", "name": "Свининые ребра", "discount": "25%", "weight": "1.4кг", "price": 800, "disc_price": 500 },
-    { "id": 3, "img": "", "name": "Стейк из говядины", "discount": "20%", "weight": "9кг", "price": 3000, "disc_price": 2500 },
-    { "id": 4, "img": "", "name": "Баранина", "discount": "15%", "weight": "12кг", "price": 2800, "disc_price":  2300 }
+    {
+      "id": 1,
+      "img": "",
+      "name": "Ламберт",
+      "discount": "15%",
+      "weight": "2кг",
+      "price": 1200,
+      "disc_price": 1000
+    },
+    {
+      "id": 2,
+      "img": "",
+      "name": "Свининые ребра",
+      "discount": "25%",
+      "weight": "1.4кг",
+      "price": 800,
+      "disc_price": 500
+    },
+    {
+      "id": 3,
+      "img": "",
+      "name": "Стейк из говядины",
+      "discount": "20%",
+      "weight": "9кг",
+      "price": 3000,
+      "disc_price": 2500
+    },
+    {
+      "id": 4,
+      "img": "",
+      "name": "Баранина",
+      "discount": "15%",
+      "weight": "12кг",
+      "price": 2800,
+      "disc_price": 2300
+    }
   ],
-  "sale": [ 
-  	{ "discount": "до 30%" ,"title": "Весь июнь скидки на продукцию Makfa" }
-  	{ "discount": "до 60%" ,"title": "Купи сейчас или мы купим вас" }
+  "sale": [
+    {
+      "discount": "до 30%",
+      "title": "Весь июнь скидки на продукцию Makfa"
+    },
+    {
+      "discount": "до 60%",
+      "title": "Купи сейчас или мы купим вас"
+    }
   ],
   "cooking": [
-  	{ "id": 1, "img": "", "name": "Цезарь с креветками", "discount": "15%", "weight": "100г", "price": 34, "disc_price": 45 },
-  	{ "id": 1, "img": "", "name": "Цезарь с курицей", "discount": "15%", "weight": "2кг", "price": 64, "disc_price": 75 }
+    {
+      "id": 1,
+      "img": "",
+      "name": "Цезарь с креветками",
+      "discount": "15%",
+      "weight": "100г",
+      "price": 34,
+      "disc_price": 45
+    },
+    {
+      "id": 1,
+      "img": "",
+      "name": "Цезарь с курицей",
+      "discount": "15%",
+      "weight": "2кг",
+      "price": 64,
+      "disc_price": 75
+    }
   ]
 }
