@@ -2,40 +2,40 @@
   "top_category": [
     {
       "id": 1,
-      "img": "",
+      "img": "https://image.freepik.com/free-photo/fruits-and-vegetables_1112-314.jpg",
       "title": "Овощи и фрукты"
     },
     {
       "id": 2,
-      "img": "",
+      "img": "https://sc02.alicdn.com/kf/ULB8KKftrHnJXKJkSahGq6xhzFXaT.jpg_350x350.jpg",
       "title": "Бакалеи"
     },
     {
       "id": 3,
-      "img": "",
+      "img": "https://volsklife.ru/wp-content/uploads/2020/04/Hleb.jpg",
       "title": "Хлеб и выпечка"
     },
     {
       "id": 4,
-      "img": "",
+      "img": "https://gkgazeta.ru/wp-content/uploads/2019/05/b2ap3_large_kak-vosstanovit-zdorove-pravilnoe-pitanie.jpg",
       "title": "Правильное питание"
     },
     {
       "id": 5,
-      "img": "",
+      "img": "https://www.profiz.ru/upl/5b25597c6750b.jpg",
       "title": "Молочная продукция"
     },
     {
       "id": 6,
-      "img": "",
+      "img": "https://pw.artfile.me/wallpaper/30-01-2017/590x470/eda-raznoe-yagody-frukty-myaso-ovoschi-k-1125053.jpg",
       "title": "Мясо, курица и рыба"
     }
   ],
   "strike_price": [
     {
       "id": 1,
-      "img": "",
-      "name": "Ламберт",
+      "img": "https://cheesewiki.ru/wp-content/uploads/2019/11/lamber-3.jpg",
+      "name": "Ламбер",
       "discount": "15%",
       "weight": "2кг",
       "price": 1200,
@@ -43,8 +43,8 @@
     },
     {
       "id": 2,
-      "img": "",
-      "name": "Свининые ребра",
+      "img": "https://kakvarim.ru/wp-content/uploads/2019/12/kak-varit-svinye-rebra-post.jpg",
+      "name": "Свиные ребра",
       "discount": "25%",
       "weight": "1.4кг",
       "price": 800,
@@ -52,7 +52,7 @@
     },
     {
       "id": 3,
-      "img": "",
+      "img": "https://infoeda.com/wp-content/uploads/2017/09/Kak_pozharit_steik_iz_govyadiny.jpg",
       "name": "Стейк из говядины",
       "discount": "20%",
       "weight": "9кг",
@@ -61,7 +61,7 @@
     },
     {
       "id": 4,
-      "img": "",
+      "img": "https://www.gastronom.ru/binfiles/images/20160225/b764ea56.jpg",
       "name": "Баранина",
       "discount": "15%",
       "weight": "12кг",
@@ -82,7 +82,7 @@
   "cooking": [
     {
       "id": 1,
-      "img": "",
+      "img": "https://img.povar.ru/main/31/75/56/ac/salat_quotcezarquot_s_jarenimi_krevetkami-412181.jpeg",
       "name": "Цезарь с креветками",
       "discount": "15%",
       "weight": "100г",
@@ -91,7 +91,7 @@
     },
     {
       "id": 1,
-      "img": "",
+      "img": "https://infoeda.com/wp-content/uploads/2018/08/Klassicheskiy_salat_Cezar_s_kuricey.jpg",
       "name": "Цезарь с курицей",
       "discount": "15%",
       "weight": "2кг",
