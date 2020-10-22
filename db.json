@@ -71,10 +71,12 @@
   ],
   "sale": [
     {
+      "id": 1,
       "discount": "до 30%",
       "title": "Весь июнь скидки на продукцию Makfa"
     },
     {
+      "id": 2,
       "discount": "до 60%",
       "title": "Купи сейчас или мы купим вас"
     }
@@ -90,7 +92,7 @@
       "disc_price": 45
     },
     {
-      "id": 1,
+      "id": 2,
       "img": "https://infoeda.com/wp-content/uploads/2018/08/Klassicheskiy_salat_Cezar_s_kuricey.jpg",
       "name": "Цезарь с курицей",
       "discount": "15%",
