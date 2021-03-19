@@ -1,4 +1,5 @@
 {
+  event: [
   	{
   	  "id": 1,
   	  "img": "https://infoeda.com/wp-content/uploads/2018/08/Klassicheskiy_salat_Cezar_s_kuricey.jpg"
@@ -47,4 +48,5 @@
   	  "id": 12,
   	  "img": "https://volsklife.ru/wp-content/uploads/2020/04/Hleb.jpg"
   	}
+   ]
 }
