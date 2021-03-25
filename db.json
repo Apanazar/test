@@ -1,28 +1,10 @@
 {
-    "top_category": [
+    "event": [
       {
-        "id": 1,
-        "title": "Овощи и фрукты"
+        "mail": "radovarduronilt@gmail.com"
       },
       {
-        "id": 2,
-        "title": "Бакалеи"
-      },
-      {
-        "id": 3,
-        "title": "Хлеб и выпечка"
-      },
-      {
-        "id": 4,
-        "title": "Правильное питание"
-      },
-      {
-        "id": 5,
-        "title": "Молочная продукция"
-      },
-      {
-        "id": 6,
-        "title": "Мясо, курица и рыба"
+        "mail": "exgumacia@mail.ru"
       }
     ]
 }
