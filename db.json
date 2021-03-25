@@ -1,11 +1,24 @@
 {
-  "event": 
-  [
-  	{
-  	  "mail": "exgumacia@mail.ru"
-  	},
-  	{
-  	  "mail": "radovarduronilt@gmail.com"
-  	},	
+  "top_category": [
+      {
+        "id": 1,
+        "title": "Овощи и фрукты"
+      },
+      {
+        "id": 2,
+        "title": "Бакалеи"
+      },
+      {
+        "id": 3,
+        "title": "Хлеб и выпечка"
+      },
+      {
+        "id": 4,
+        "title": "Правильное питание"
+      },
+      {
+        "id": 5,
+        "title": "Молочная продукция"
+      },	
   ]
 }
