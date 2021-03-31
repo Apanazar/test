@@ -1,11 +1,13 @@
 {
-    "event": [
-      {
-        "mail": "radovarduronilt@gmail.com"
-      },
-      {
-        "mail": "exgumacia@mail.ru"
-      }
+    "users": [
+        {
+            "name": "Addaad",
+            "type": "Пользователь"
+        },
+        {
+            "name": "AAAAAAd",
+            "type": "Экстрасенс"
+        }
     ]
 }
   
