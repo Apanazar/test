@@ -1,13 +1,11 @@
 {
-    "users": [
-        {
-            "name": "Addaad",
-            "type": "Пользователь"
-        },
-        {
-            "name": "AAAAAAd",
-            "type": "Экстрасенс"
-        }
-    ]
+    {
+        "name": "Addaad",
+        "type": "Пользователь"
+    },
+    {
+        "name": "AAAAAAd",
+        "type": "Экстрасенс"
+    }
 }
   
